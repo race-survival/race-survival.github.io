@@ -11,4 +11,4 @@ Disallow: /*.pdf$
 Disallow: /*.zip$
 Disallow: /*.exe$
 
-Sitemap: https://basket-bros.io/sitemap.xml
+Sitemap: https://race-survival.github.io/sitemap.xml
