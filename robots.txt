@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /login/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /api/
+Disallow: /search/
+Disallow: /*.pdf$
+Disallow: /*.zip$
+Disallow: /*.exe$
+
+Sitemap: https://basket-bros.io/sitemap.xml
